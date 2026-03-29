@@ -1,7 +1,7 @@
 # Hypothesis: STORY-007 — Generate AI reply draft for a selected conversation
 
-**Capability:** AI reply draft generation
-**Feature:** AI Draft Generation
+**Capability:** AI reply draft generation  
+**Feature:** AI Draft Generation  
 **Business Goal:** BG-001
 
 ---
@@ -34,7 +34,7 @@ Deploy a basic draft generation feature to 8 beta users with access to their rec
 
 ## Validation Plan
 
-**Validated in:** Phase 1 - Core MVP Testing
-**Metric:** Average editing time per draft and user satisfaction score with voice matching
-**Pass threshold:** Average editing time ≤ 2.5 minutes per draft AND 80% of users rate voice similarity as "good" or "excellent"
+**Validated in:** Phase 1 - Core MVP Testing  
+**Metric:** Average editing time per draft and user satisfaction score with voice matching  
+**Pass threshold:** Average editing time ≤ 2.5 minutes per draft AND 80% of users rate voice similarity as "good" or "excellent"  
 **Fail action:** Pivot to template-based drafting with manual customization options and defer advanced LLM generation to Phase 4
